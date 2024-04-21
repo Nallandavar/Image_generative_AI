@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://your-image-generative-ai-logo-url-here" alt="Image Generative AI Logo">
-</div>
-
 # 🎨 Image Generative AI
 
 Welcome to Image Generative AI, your creative companion for generating stunning images using OpenCV!
